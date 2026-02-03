@@ -7,7 +7,7 @@ I have academic and project experience with **Java** and **C++**.
 
 ### 🛠 Tech Experience
 * **Current Focus:** Python (Improving daily)
-  ![Codewars](https://www.codewars.com/users/sethsolves/badges/large)
+* ![Codewars](https://www.codewars.com/users/sethsolves/badges/large)
 * **Previously Worked With:** Java, C++
 * **Interests:** Cybersecurity, Machine Learning
 
