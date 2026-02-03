@@ -1,4 +1,5 @@
 # Hi, I'm Seth. 🦇
+![Codewars](https://www.codewars.com/users/sethsolves/badges/micro)
 
 **CS Student | Developer | Artist**
 
