@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Seth. 🦇
 
-<!--
-**sethsolves/sethsolves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CS Student | Developer | Artist**
 
-Here are some ideas to get you started:
+I am a Computer Science student currently **leveling up my Python skills**.  
+I have academic and project experience with **Java** and **C++**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Experience
+* **Current Focus:** Python (Improving daily) ![Codewars](https://github.r2v.ch/codewars?user=sethsolves&stroke= rgb(120,6,6))
+* **Previously Worked With:** Java, C++
+* **Interests:** Cybersecurity, Machine Learning
+
+### 🎨 Beyond the Code
+**Fun fact:** I'm a semi-pro Guitarist, Metal enthusiast, and a skilled artist!
