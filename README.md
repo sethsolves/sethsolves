@@ -1,9 +1,9 @@
 # Hi, I'm Seth. 🦇
 ![Codewars](https://www.codewars.com/users/sethsolves/badges/micro)
 
-**CS Student | Developer | Artist**
+**CE Student | Developer | Artist**
 
-I am a Computer Science student currently leveling up my Python skills.  
+I am a Computer Engineering student currently leveling up my Python skills.  
 I have academic and project experience with Java and C++.
 
 ### 🛠 Tech Experience
