@@ -4,7 +4,7 @@
 **CE Student | Developer | Artist**
 
 ### 🛠 Tech Experience
-* **Current Learning Focus:** Databases, Computer Networks, etc.
+* **Current Learning Focus:** Databases, Computer Networks, Software Engineering Fundamentals, etc.
 * **Previously Worked With:** Java, C++, Python, SQL
 * **Interests:** Cloud/DevOps, Machine Learning
 
