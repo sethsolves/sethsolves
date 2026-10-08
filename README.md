@@ -3,13 +3,7 @@
 
 **CE Student | Developer | Artist**
 
-I am a Computer Engineering student currently leveling up my Python skills.  
-I have academic and project experience with Java and C++.
-
 ### 🛠 Tech Experience
-* **Current Focus:** Python
-* **Previously Worked With:** Java, C++
-* **Interests:** Cybersecurity, Machine Learning
-
-### 🎨 Beyond the Code
-**Fun fact:** I'm a semi-pro Guitarist, Metal enthusiast, and a skilled artist!
+* **Current Learning Focus:** Databases, Computer Networks, etc.
+* **Previously Worked With:** Java, C++, Python, SQL
+* **Interests:** Cloud/DevOps, Machine Learning
